@@ -23,8 +23,8 @@ Bu proje, C# Windows Forms kullanılarak geliştirilmiş basit bir kütüphane o
 
 ## 📸 Ekran Görüntüleri
 
-![Admin Panel](screenshots/admin.png)  
-![Kullanıcı Panel](screenshots/user.png)
+![Admin Panel](admin-panel.png)
+![Kullanıcı Panel](user-panel.png)
 
 ## ⚠️ Not
 
